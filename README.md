@@ -20,7 +20,7 @@ A Java console application for converting amounts between different currencies u
 ## Sample Usage
 === SIMPLE CURRENCY CONVERTER ===
 
-##=== AVAILABLE CURRENCIES ===
+## === AVAILABLE CURRENCIES ===
 USD - US Dollar
 EUR - Euro
 GBP - British Pound
@@ -33,7 +33,7 @@ NGN - Nigerian Naira
 EGP - Egyptian Pound
 KES - Kenyan Shilling
 GHS - Ghanaian Cedi
-##============================
+============================
 
 Enter amount to convert: 100
 Enter source currency code (e.g., USD): USD
