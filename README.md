@@ -21,18 +21,18 @@ A Java console application for converting amounts between different currencies u
 === SIMPLE CURRENCY CONVERTER ===
 
 ##=== AVAILABLE CURRENCIES ===
-##USD - US Dollar
-##EUR - Euro
-##GBP - British Pound
-##JPY - Japanese Yen
-##CNY - Chinese Yuan
-##RUB - Russian Ruble
-##INR - Indian Rupee
-##ZAR - South African Rand
-##NGN - Nigerian Naira
-##EGP - Egyptian Pound
-##KES - Kenyan Shilling
-##GHS - Ghanaian Cedi
+USD - US Dollar
+EUR - Euro
+GBP - British Pound
+JPY - Japanese Yen
+CNY - Chinese Yuan
+RUB - Russian Ruble
+INR - Indian Rupee
+ZAR - South African Rand
+NGN - Nigerian Naira
+EGP - Egyptian Pound
+KES - Kenyan Shilling
+GHS - Ghanaian Cedi
 ##============================
 
 Enter amount to convert: 100
